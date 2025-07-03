@@ -1,1 +1,1 @@
-# RPG_Game_Design_Patterns
+Console RPG game that was created to reinforce knowledge of design patterns and the principles of object-oriented programming.
